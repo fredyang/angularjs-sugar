@@ -17,7 +17,7 @@
 		requires: true
 	};
 
-	$.extend( ng, {
+	ng.extend( ng, {
 		/* a module is like
 		 * {
 		 *   constant: { },
