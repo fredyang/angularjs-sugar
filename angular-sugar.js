@@ -1,3 +1,4 @@
+/*! angularjs-sugar 0.1 © Fred Yang - semanticsworks.com | www.opensource.org/licenses/mit-license.php */
 (function( ng ) {
 	"use strict";
 
